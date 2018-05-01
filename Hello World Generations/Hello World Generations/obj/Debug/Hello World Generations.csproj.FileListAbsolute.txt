@@ -1,0 +1,7 @@
+C:\Users\Devon\Dropbox\C#\Hello World Generations\Hello World Generations\bin\Debug\Hello World Generations.exe.config
+C:\Users\Devon\Dropbox\C#\Hello World Generations\Hello World Generations\bin\Debug\Hello World Generations.exe
+C:\Users\Devon\Dropbox\C#\Hello World Generations\Hello World Generations\bin\Debug\Hello World Generations.pdb
+C:\Users\Devon\Dropbox\C#\Hello World Generations\Hello World Generations\obj\Debug\Hello World Generations.csprojResolveAssemblyReference.cache
+C:\Users\Devon\Dropbox\C#\Hello World Generations\Hello World Generations\obj\Debug\Hello World Generations.csproj.CoreCompileInputs.cache
+C:\Users\Devon\Dropbox\C#\Hello World Generations\Hello World Generations\obj\Debug\Hello World Generations.exe
+C:\Users\Devon\Dropbox\C#\Hello World Generations\Hello World Generations\obj\Debug\Hello World Generations.pdb
